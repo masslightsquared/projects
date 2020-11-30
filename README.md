@@ -10,7 +10,7 @@ A collection of interesting projects I've worked on over the years.
 6. [Intro to AutoML](https://github.com/masslightsquared/projects/tree/main/Projects/Intro%20to%20AutoML)
 7. [k-Means Clustering](https://github.com/masslightsquared/projects/tree/main/Projects/k-Means%20Clustering)
 8. [Label Propagation](https://github.com/masslightsquared/projects/tree/main/Projects/Label%20Propagation)
-9. [Marketing Insights Target Cosmetics](https://github.com/masslightsquared/projects/tree/main/Projects/Marketing%20Insights%20Target%20Cosmetics)
+9. [Marketing Insights - Target Cosmetics](https://github.com/masslightsquared/projects/tree/main/Projects/Marketing%20Insights%20Target%20Cosmetics)
 10. [Recommendation System Diabetic Retinopathy (DR)](https://github.com/masslightsquared/projects/tree/main/Projects/Recommendation%20System%20Diabetic%20Retinopathy%20(DR))
 11. [ResNet](https://github.com/masslightsquared/projects/tree/main/Projects/ResNet)
 12. [Support Vector Machines](https://github.com/masslightsquared/projects/tree/main/Projects/Support%20Vector%20Machines)
