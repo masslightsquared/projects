@@ -1,0 +1,1 @@
+# Adapted from [Dive into Deep Learning](https://d2l.ai/index.html), Chapter 7, Section 6. The authors are prominent Amazon data scientists, so they work primarily with the [MXNet](https://mxnet.apache.org/versions/1.7.0/) framework rather than [TensorFlow](https://www.tensorflow.org/) or [PyTorch](https://pytorch.org/). As such, this assignment will rely on MXNet as well. 
