@@ -1,5 +1,5 @@
 # Projects
-A collection of interesting projects I've worked on over the years. 
+A collection of interesting projects I've worked on over the past year. 
 
 ## Table of Contents ##
 1. [Anomaly Detection with Python Outlier Detector (PyOD)](https://github.com/masslightsquared/projects/tree/main/Projects/Anomaly%20Detection%20with%20Python%20Outlier%20Detector%20(PyOD))
