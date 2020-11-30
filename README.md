@@ -8,7 +8,7 @@ A collection of interesting projects I've worked on over the years.
 4. [Car Detection with YOLO v2](https://github.com/masslightsquared/projects/tree/main/Projects/Car%20Detection%20with%20YOLO%20v2)
 5. [COVID-19 Regression](https://github.com/masslightsquared/projects/tree/main/Projects/Covid-19%20Regression)
 6. [Intro to AutoML](https://github.com/masslightsquared/projects/tree/main/Projects/Intro%20to%20AutoML)
-7. [k-Means CLustering](https://github.com/masslightsquared/projects/tree/main/Projects/k-Means%20Clustering)
+7. [k-Means Clustering](https://github.com/masslightsquared/projects/tree/main/Projects/k-Means%20Clustering)
 8. [Label Propagation](https://github.com/masslightsquared/projects/tree/main/Projects/Label%20Propagation)
 9. [Marketing Insights Target Cosmetics](https://github.com/masslightsquared/projects/tree/main/Projects/Marketing%20Insights%20Target%20Cosmetics)
 10. [Recommendation System Diabetic Retinopathy (DR)](https://github.com/masslightsquared/projects/tree/main/Projects/Recommendation%20System%20Diabetic%20Retinopathy%20(DR))
