@@ -18,3 +18,5 @@ A collection of interesting projects I've worked on over the past year.
 14. [Walmart Labs Inventory](https://github.com/masslightsquared/projects/tree/main/Projects/Walmart%20Labs%20Inventory)
 15. [Zero Shot Learning SRC](https://github.com/masslightsquared/projects/tree/main/Projects/Zero%20Shot%20Learning%20SRC)
 16. [Cassava Leaf Classification]()
+17. [U.C.ML] 
+18. [Diabetic Retinopathy Classification]
