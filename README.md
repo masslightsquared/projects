@@ -17,6 +17,6 @@ A collection of interesting projects I've worked on over the past year.
 13. [tSNE High Dimensional Data Clustering](https://github.com/masslightsquared/projects/tree/main/Projects/tSNE%20High%20Dimensional%20Data%20Clustering)
 14. [WM Labs Inventory](https://github.com/masslightsquared/projects/tree/main/Projects/Walmart%20Labs%20Inventory)
 15. [Zero Shot Learning SRC](https://github.com/masslightsquared/projects/tree/main/Projects/Zero%20Shot%20Learning%20SRC)
-16. [Cassava Leaf Classification]()
+16. [Cassava Leaf Disease Classification]()
 17. [U.C.ML](https://github.com/masslightsquared/projects/blob/main/U.C.ML/Highlands_Experiment.ipynb)
 18. [Diabetic Retinopathy Classification]()
