@@ -20,5 +20,5 @@ A collection of interesting projects I've worked on over the past year.
 16. [Cassava Leaf Disease Classification]()
 17. [U.C.ML](https://github.com/masslightsquared/projects/blob/main/U.C.ML/Highlands_Experiment.ipynb)
 18. [Diabetic Retinopathy Classification]()
-19. [GAN - Day to Night Transformation]()
+19. [GAN - Day to Night Transformation](https://github.com/masslightsquared/projects/tree/main/Projects/GAN_day2night)
 20. [Capstone Project]()
