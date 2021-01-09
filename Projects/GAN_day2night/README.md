@@ -1,1 +1,1 @@
-cycleGAN Day2Night
+**CycleGAN Day2Night**
