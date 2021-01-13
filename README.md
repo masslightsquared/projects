@@ -22,3 +22,4 @@ A collection of interesting projects I've worked on over the past year.
 18. [Diabetic Retinopathy Classification]()
 19. [GAN - Day to Night Transformation](https://github.com/masslightsquared/projects/tree/main/Projects/GAN_day2night)
 20. [Capstone Project]()
+21. [Pix2Pix for Image Translation]()
