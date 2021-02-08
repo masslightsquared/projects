@@ -1,5 +1,3 @@
-# Today you are Machine Learning Engineer@ Epic Software Systems, and your task is to develop a new Recommendation System for the Opthalmologists (eye doctors)!
-
 ### Diabetic Retinopathy (DR) is a pathology that impacts patients with Diabetes Mellitus 2, such that vision is compromised. Base paper on Automated classification of diabetic retinopathy:
 https://ieeexplore.ieee.org/abstract/document/6680633
 ### Diabetic Retinopathy classification using modified AlexNet paper: https://www.sciencedirect.com/science/article/abs/pii/S0045790618334190
