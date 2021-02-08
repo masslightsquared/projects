@@ -18,8 +18,9 @@ A collection of interesting projects I've worked on over the past year.
 14. [WM Labs Inventory](https://github.com/masslightsquared/projects/tree/main/Projects/Walmart%20Labs%20Inventory)
 15. [Zero Shot Learning SRC](https://github.com/masslightsquared/projects/tree/main/Projects/Zero%20Shot%20Learning%20SRC)
 16. [Cassava Leaf Disease Classification]()
-17. [U.C.ML](https://github.com/masslightsquared/projects/blob/main/U.C.ML/Highlands_Experiment.ipynb)
+17. U.C.ML
 18. [Diabetic Retinopathy Classification]()
 19. [GAN - Day to Night Transformation](https://github.com/masslightsquared/projects/tree/main/Projects/GAN_day2night)
 20. [Capstone Project]()
 21. [Pix2Pix for Image Translation](https://github.com/masslightsquared/pix2pix_tensorflow)
+22. [Predicting Quartely Sales for Tesla]()
