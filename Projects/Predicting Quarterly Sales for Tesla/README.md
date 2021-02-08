@@ -6,4 +6,3 @@
 # Motivation
 My objective is to look at car sales from Quarters 1-2 in California for 2019 to make predictions as to which cars will be sold more than the others in Q3 and Q4, to ensure enough inventory to meet demands.
 
-
