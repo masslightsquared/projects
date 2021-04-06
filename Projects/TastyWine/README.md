@@ -1,5 +1,4 @@
 <img src="./images/tastwine.jpg" width="300px"></img>
-*An objectively tasty wine*
 
 ## Modeling Wine Preferences with DataBricks
 #### Motivation: To predict the quality of Portugese "Vinho Verde" wine based on the wine's physicochemical properties.
