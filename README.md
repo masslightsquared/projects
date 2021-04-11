@@ -24,5 +24,5 @@ A collection of interesting projects I've worked on over the past year.
 20. [GAN - Day to Night Transformation](https://github.com/masslightsquared/projects/tree/main/Projects/GAN_day2night)
 21. [Capstone Project]()
 22. [Pix2Pix for Image Translation](https://github.com/masslightsquared/pix2pix_tensorflow)
-23. [Predicting Quartely Sales for Tesla]()
+23. [Predicting Quartely Sales for Tesla](https://github.com/masslightsquared/projects/tree/main/Projects/Predicting%20Quarterly%20Sales%20for%20Tesla)
 24. [Sentiment Analysis Using LSTM](https://github.com/masslightsquared/projects/tree/main/Projects/Sentiment%20Analysis%20of%20IMDB%20Movie%20Reviews)
