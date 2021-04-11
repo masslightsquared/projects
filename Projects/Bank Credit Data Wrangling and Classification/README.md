@@ -1,5 +1,7 @@
 # Bank Credit Wrangling and Classification
 
+[[Colab]](https://colab.research.google.com/drive/1fsW6k7aQOFIAWZ6IXbJ1iMEuGD6xO0nC?usp=sharing)
+
 ## Motivation
 For this project, the task is to analyze whether loan applicants qualify, based on their personal information. 
 Tasks are: 
