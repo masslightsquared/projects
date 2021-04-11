@@ -6,6 +6,7 @@
 For this project, the task is to analyze whether loan applicants qualify, based on their personal information. 
 
 Tasks are: 
+
 I. Data wrangling to perform one-hot-encoding for the data and normalization 
 
 II. Eliminating unimportant features 
